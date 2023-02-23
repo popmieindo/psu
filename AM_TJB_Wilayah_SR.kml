@@ -1,0 +1,3524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="AM_TJB_Wilayah_SR" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>AM_TJB_Wilayah_SR</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd2f7dc</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>AM_TJB_Wilayah_SR</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Agus Nginot</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>50</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,466</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,829375</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_102520086.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4666314446342,-0.8289780349352416,0 103.4665655288574,-0.8289863704465393,0 103.4645700839139,-0.8292387197683236,0 103.4647323171263,-0.8297692098374285,0 103.4666401279068,-0.8294687866243514,0 103.4667217457513,-0.8294559343294827,0 103.4668420628473,-0.8294369878798347,0 103.4668026308206,-0.8292437367403994,0 103.4667454735506,-0.8289636143591436,0 103.4666314446342,-0.8289780349352416,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Imam Bonjol/Andalas</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>46</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,818471</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_105649493.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4617568618596,-0.8203284028098362,0 103.4621928858752,-0.8202128244103567,0 103.4616951875188,-0.8187320399542981,0 103.4609246843261,-0.8165132654337954,0 103.4604886547302,-0.8166433120869174,0 103.4605699788282,-0.816966468707863,0 103.4610150329388,-0.8182977270423915,0 103.4617568618596,-0.8203284028098362,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Bahagia</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>51</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,459</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,819196</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_095933222.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4595478872882,-0.8215754978258994,0 103.4598700386909,-0.8215177186119103,0 103.4596633389941,-0.8205158864056641,0 103.4594050628635,-0.8190044717042532,0 103.4588420613142,-0.8171049790633036,0 103.458502636562,-0.8172090764392977,0 103.4587209389705,-0.8179561319701286,0 103.4591288612502,-0.8192417744070507,0 103.4595478872882,-0.8215754978258994,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Kapt. Pierre Tendean / Jl. Bengkinang</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>271</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,468</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,825272</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_084151106.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.465792000097,-0.8220249206037453,0 103.4662667475529,-0.8238038303873561,0 103.4665992257094,-0.8246414766054089,0 103.4671536492948,-0.8252718230974907,0 103.4685556659165,-0.8265645371311874,0 103.4689992306179,-0.8270034087857434,0 103.4690387362183,-0.8272985503000024,0 103.4687533515295,-0.8276334461777641,0 103.4690859733085,-0.828096204575697,0 103.469466407451,-0.8278570614762443,0 103.4697201252903,-0.8274503651334695,0 103.4696569699045,-0.8268361611565669,0 103.4693956679644,-0.8263574777514321,0 103.4679302851722,-0.8250009279459281,0 103.4669877081865,-0.8240753059843484,0 103.4665680063186,-0.8233971536857662,0 103.4662357683202,-0.8219293765133394,0 103.465792000097,-0.8220249206037453,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Syarif Hidayatullah / Jl. Kalimantan</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>245</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,467</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,81701</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_120211573.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4684328559948,-0.8218160760131625,0 103.4685144344511,-0.8220194365783705,0 103.4686885799024,-0.822061539623804,0 103.4687860886391,-0.8220480509973723,0 103.4693939511338,-0.8219639652610355,0 103.469339528371,-0.8217715873452275,0 103.4693249850675,-0.8217201762803151,0 103.4691710255411,-0.821175945706946,0 103.468680284251,-0.8197719174248296,0 103.4683478371551,-0.8188465314451132,0 103.4677025069423,-0.817637865633247,0 103.4674927513345,-0.8170475348913655,0 103.4671801624186,-0.8159905476258381,0 103.4670060222699,-0.8155079118269681,0 103.4667685746089,-0.8148059014127219,0 103.4668479504229,-0.8144390198075174,0 103.4665310695581,-0.8142554420056461,0 103.4663924168688,-0.8142194949422912,0 103.466143240179,-0.8131027110409842,0 103.4652873911799,-0.8133217329414811,0 103.4657700445586,-0.8151644545914042,0 103.4660549959736,-0.8159661871364564,0 103.4667874963507,-0.8171509565699484,0 103.4673853641911,-0.8181442424504478,0 103.4677416421255,-0.8189140977655399,0 103.4681531284679,-0.8203619647395035,0 103.4683903290285,-0.821710060707681,0 103.4684328559948,-0.8218160760131625,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Kelapa Gading dan PLN</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>218</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,819753</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_115825115.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4558831296447,-0.8212767117770318,0 103.4562318344716,-0.8211213097460137,0 103.4559309599327,-0.8205269574523101,0 103.4548065741808,-0.8184805974678512,0 103.4543627826502,-0.8186439395996302,0 103.454924936731,-0.8197688170381684,0 103.4558831296447,-0.8212767117770318,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Ketapang dan Patimura</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>117</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,457</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,819494</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_143219082.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4569452425538,-0.8222321749695516,0 103.4570818965624,-0.8225534934205802,0 103.4572035238897,-0.8224311538103032,0 103.4577965319405,-0.8216358709393461,0 103.4579258432474,-0.8212917084498007,0 103.4577286244538,-0.8203813806875117,0 103.4574857713643,-0.8195781235359283,0 103.4570377994162,-0.8186524001346807,0 103.4564455096164,-0.8175736384715655,0 103.4558608099772,-0.8165178275681751,0 103.4555188025039,-0.8166859767765192,0 103.4557769932058,-0.8171220792061508,0 103.4564755889511,-0.8183997599604617,0 103.4569311655741,-0.8193101872557523,0 103.4571512186736,-0.8201210847631483,0 103.4575003365022,-0.8212303496593983,0 103.4569452425538,-0.8222321749695516,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Mayang Pinang</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820607</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122806620.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4549360383118,-0.8197862879989237,0 103.4529871192793,-0.8210985340201855,0 103.4531778567695,-0.8214133170308063,0 103.4551499754064,-0.820122958410899,0 103.4549360383118,-0.8197862879989237,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Manunggal I dan II</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>212</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,472</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,82268</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_100721754.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4700485230465,-0.8226135570045934,0 103.4702782967624,-0.823004622695157,0 103.4703476260913,-0.823122618250427,0 103.4743545838664,-0.8299423177110882,0 103.4750109459223,-0.8296185416120181,0 103.4711242642495,-0.8231483861410401,0 103.4726552047289,-0.8229862587413316,0 103.4761289516222,-0.8290358250880034,0 103.4765328725356,-0.828861712169636,0 103.4730988652972,-0.8228656680118026,0 103.4729748031475,-0.8226490465802536,0 103.4728010100104,-0.8223455911673255,0 103.4727784335844,-0.8223061711673392,0 103.4727058477693,-0.8223143443628981,0 103.4703617997842,-0.8225782822171498,0 103.4700485230465,-0.8226135570045934,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Lrg. Nelayan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lrg. Nelayan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Lrg. Nelayan</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Lrg. Nelayan</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,448</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,836058</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_094005683.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4477679643907,-0.837064886374978,0 103.4481357739062,-0.8366885529812806,0 103.4479456894874,-0.8364715218617541,0 103.4479172054536,-0.8363662235196985,0 103.4480219107973,-0.8360791196482751,0 103.4477180265995,-0.8350931300157549,0 103.4472457381394,-0.8351790858507746,0 103.4476285751637,-0.8368893528174364,0 103.4477679643907,-0.837064886374978,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Tungkal II dan Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II dan Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal II dan Tungkal III</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Panglima Cama</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>251</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,471</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,82218</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_091932995.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.464999310679,-0.8219452534723848,0 103.4651765985437,-0.8224813327041237,0 103.4663177204652,-0.8222265309243471,0 103.4670910323852,-0.8223544521477086,0 103.4690559907845,-0.8227253144921189,0 103.472783505526,-0.8223055997274331,0 103.476105606508,-0.8211455164844422,0 103.4756621821399,-0.8203285642799013,0 103.4722766630654,-0.821565197106998,0 103.4686885799024,-0.822061539623804,0 103.4665208319272,-0.8215374531574788,0 103.464999310679,-0.8219452534723848,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Tungkal Empat Kota / Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota / Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal Empat Kota / Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Sultan Hasanuddin/Jl. Patunas, Komplek A, Komp</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>179</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,463</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822775</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_101233336.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.461002398932,-0.8227408466253168,0 103.4610829711073,-0.823279818674313,0 103.4623422202096,-0.823231499949944,0 103.463519319735,-0.823062116379127,0 103.4649389032477,-0.8227512293091481,0 103.4645584863411,-0.8219528272647137,0 103.4640190674549,-0.8220652807380334,0 103.464036003641,-0.8221507913057591,0 103.4626584092049,-0.8224838633020572,0 103.4626257819305,-0.8223557412339001,0 103.462583246256,-0.822188709773275,0 103.4615091075654,-0.8223614046498576,0 103.4615375779384,-0.8225100205889166,0 103.4615808815469,-0.8227360671821471,0 103.461002398932,-0.8227408466253168,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Ki Hajar Dewantara / Jl. Siswa, Akasia, Gg. Kelinci, Deltapura, Gg. Hati-hati</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>472</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,466</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,827612</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_101941582.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4660750569641,-0.8267856079005745,0 103.4660433102085,-0.8267207263276545,0 103.4660380961384,-0.8267100704299126,0 103.4659560536811,-0.8265256298087296,0 103.4658648684594,-0.8263206348927535,0 103.465793845778,-0.8261609674692216,0 103.4657216273975,-0.8259986117042756,0 103.4656721382823,-0.8258912958989815,0 103.4656397269464,-0.8258210120905719,0 103.4655938241269,-0.8257214728387845,0 103.4652986542615,-0.825081403544077,0 103.4652838063561,-0.8250492064612206,0 103.4650846721629,-0.8245631618403609,0 103.465030631948,-0.824431260849031,0 103.4650262163691,-0.824421182279413,0 103.4649344874137,-0.8242117855807493,0 103.4648477709726,-0.8240138324412064,0 103.4647546147271,-0.8238011793699263,0 103.4646651695479,-0.8235965923123898,0 103.4645289779999,-0.8232850831416049,0 103.4644100681226,-0.8230131021899586,0 103.4643529378621,-0.8228795549640033,0 103.464295492061,-0.8228921355480998,0 103.464288974217,-0.822893562882179,0 103.4641152611908,-0.8229316061619957,0 103.4646765909536,-0.8244566031564641,0 103.465582328212,-0.8263968023802299,0 103.4663580670627,-0.8280291721715379,0 103.4667454735506,-0.8289636143591436,0 103.4670577478809,-0.8304940313262964,0 103.4672920881577,-0.8310237524912272,0 103.4679568382405,-0.8332254870044712,0 103.4687809291489,-0.8331875225088317,0 103.4682238209547,-0.831298503526999,0 103.4677487277616,-0.8304304899440687,0 103.4673499477106,-0.8289243989538627,0 103.467112901701,-0.8282640494084224,0 103.4671122401266,-0.8282625424143174,0 103.4664409783004,-0.8267351307584069,0 103.4663864805093,-0.8267561794513595,0 103.4663742598635,-0.8267608993021264,0 103.4661124469101,-0.8268620182895362,0 103.4660750569641,-0.8267856079005745,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Sungai Nibung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Parit Gompong</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>182</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,452</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,831849</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_094649400.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4515366653346,-0.8335392716803408,0 103.4545074988992,-0.8298159600150796,0 103.454702898145,-0.8294978559622459,0 103.4549868342226,-0.8290356173722073,0 103.4559255349152,-0.8276704413909701,0 103.4580309762763,-0.8253613241083846,0 103.4573339314577,-0.8247229465692972,0 103.4563066004439,-0.8257945623217858,0 103.4540386005029,-0.8287191133061533,0 103.4540361084677,-0.8287161920255609,0 103.4526535878983,-0.8303109080068358,0 103.450053400572,-0.8333855400842111,0 103.4479773469585,-0.8353799020431651,0 103.4489111861888,-0.8364352184591353,0 103.4515366653346,-0.8335392716803408,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Jl. Beringin, Asrama Kodim, Garuda Putih</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>406</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,464</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,82791</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_102636697.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4639827959959,-0.8261865160072345,0 103.4631910942444,-0.8244234369468265,0 103.4631241858142,-0.8231189756982206,0 103.4623344557664,-0.8232317981012143,0 103.4623907603025,-0.8245108654894624,0 103.4626359288913,-0.8253299300695341,0 103.463364397898,-0.8270796255403353,0 103.4641955806389,-0.8291936807784451,0 103.4644803450713,-0.8304700070590881,0 103.4646936799873,-0.8320414303381236,0 103.4646974136091,-0.8327344076899079,0 103.4656046819551,-0.8326479894913148,0 103.4654073731871,-0.8306139434804473,0 103.4649325297416,-0.829098251988312,0 103.4646690805218,-0.8282453987724042,0 103.4652145322878,-0.8280853901721223,0 103.4651088664315,-0.8275642121901325,0 103.4644933513658,-0.8276848819258817,0 103.4639827959959,-0.8261865160072345,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Sriwijaya dan Sriwijaya 2</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>339</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,462</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,828596</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_163124231.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4608271452341,-0.8233695913930904,0 103.4611844892255,-0.8256763701206918,0 103.461392404376,-0.8276982464049992,0 103.4611991321319,-0.8288030976747164,0 103.4606200891131,-0.8303742079785231,0 103.4594701523058,-0.8329261810658073,0 103.4587961758424,-0.8340984352092653,0 103.4592828219698,-0.8343284007960677,0 103.4597753460271,-0.8333307960965852,0 103.4603182606799,-0.8335338071761456,0 103.4613963266679,-0.8311322638709121,0 103.4617533864364,-0.8298641663870947,0 103.4621342519072,-0.828508339034017,0 103.4622075879662,-0.8274177742609987,0 103.4618185317666,-0.8253097051119027,0 103.4614933902828,-0.8232640706196677,0 103.4608271452341,-0.8233695913930904,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Parit 2</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parit 2</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Parit 2</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Parit 2</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>815</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,465</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,823652</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_091751680.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4668999365566,-0.8259598265469466,0 103.4665485017316,-0.8256352868668099,0 103.4665268371434,-0.8256152802859131,0 103.4663498052199,-0.8253126135567028,0 103.4659557482785,-0.8243265634239061,0 103.4659376871069,-0.8242813679145443,0 103.4659367302824,-0.8242789753970808,0 103.4657447080314,-0.8238066424291918,0 103.4656889860341,-0.8236695811533162,0 103.4656055093982,-0.8234642474996133,0 103.4655034310969,-0.8232244597517363,0 103.4654037315226,-0.8229902594424027,0 103.4652961938244,-0.8226787495653256,0 103.4652954767622,-0.8226766736829944,0 103.4652243602148,-0.8224706683889785,0 103.4651379618938,-0.8222203939083029,0 103.4650395074968,-0.821934480405863,0 103.4648519365832,-0.8213897692679847,0 103.4647425359637,-0.8210720690833498,0 103.4646084976922,-0.8206828184450505,0 103.4645867713823,-0.8206197243487142,0 103.4645461699506,-0.8205018179713588,0 103.4645396643521,-0.8204829252006618,0 103.464479385476,-0.8203078728802582,0 103.4644652946466,-0.8202669540735621,0 103.4643776409938,-0.8200003846476912,0 103.4643538499904,-0.8199280313978466,0 103.4643142252376,-0.8198075234550246,0 103.4641483621086,-0.8193031049217659,0 103.4640607864655,-0.8190367725508007,0 103.4640488419409,-0.8190030852840358,0 103.4639240109203,-0.8186510156941487,0 103.4637244244642,-0.8180881120059109,0 103.4636634166151,-0.8179160458616,0 103.4636110249867,-0.8177694871885101,0 103.4635551259793,-0.8176131153112091,0 103.4634056326335,-0.817194926381983,0 103.4633188349501,-0.816952117970033,0 103.4632993586,-0.8168976365249186,0 103.46310563677,-0.8163304322433075,0 103.4630352387079,-0.8161243118419725,0 103.4630124532425,-0.816025261112949,0 103.4629966658546,-0.8159566308284744,0 103.4625379563495,-0.8151241062896808,0 103.4617402479014,-0.8124692755927957,0 103.4620698944109,-0.8124183529909901,0 103.4619500342435,-0.8120629034867276,0 103.460965145608,-0.8123308428982274,0 103.4609580418132,-0.8124016556848042,0 103.4616388003059,-0.8142045677170104,0 103.4624463387018,-0.8160075304684467,0 103.4632990452223,-0.8189683011298853,0 103.4642507095714,-0.8220169894287626,0 103.4643616004935,-0.8219938724230665,0 103.464543985233,-0.8219558504958941,0 103.4645962600503,-0.8220878800483634,0 103.4647195663035,-0.8223241062064315,0 103.4647674128455,-0.8224157687609839,0 103.4648591605206,-0.822668167919002,0 103.4648982704927,-0.8227601282673068,0 103.4647810642897,-0.8227857959359469,0 103.4643529378621,-0.8228795549640033,0 103.4644100681226,-0.8230131021899586,0 103.4646651695479,-0.8235965923123898,0 103.4647546147271,-0.8238011793699263,0 103.4648477709726,-0.8240138324412064,0 103.4649344874137,-0.8242117855807493,0 103.4650262163691,-0.824421182279413,0 103.465030631948,-0.824431260849031,0 103.4650846721629,-0.8245631618403609,0 103.4652838063561,-0.8250492064612206,0 103.4656397269464,-0.8258210120905719,0 103.4656721382823,-0.8258912958989815,0 103.4657216273975,-0.8259986117042756,0 103.465793845778,-0.8261609674692216,0 103.4660380961384,-0.8267100704299126,0 103.4660433102085,-0.8267207263276545,0 103.4661124469101,-0.8268620182895362,0 103.4663742598635,-0.8267608993021264,0 103.4664955839213,-0.8267140405029771,0 103.4667743287818,-0.8266063810581505,0 103.4669296750076,-0.8269275146593827,0 103.4669845932055,-0.8270963230481463,0 103.4674732534009,-0.8285983623972044,0 103.4674768465716,-0.8285976059062338,0 103.4677813208538,-0.8285335063702232,0 103.4678141769396,-0.8285265887153306,0 103.4678386058308,-0.8285214458371548,0 103.4678432385864,-0.8285204708845619,0 103.4680716336341,-0.8284723876221027,0 103.4680774335646,-0.8284711662210524,0 103.468142923809,-0.8284573787490147,0 103.4681382479842,-0.8284394941470014,0 103.4680354139163,-0.8280461342271823,0 103.4679157775612,-0.8276000491940096,0 103.4678758692568,-0.827528246608111,0 103.4677267161251,-0.8271855244312506,0 103.4674781245177,-0.826312043213058,0 103.4668999365566,-0.8259598265469466,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan H. Somad</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,476</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,824619</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_103533981.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4774874881358,-0.8235227062043797,0 103.4763724590572,-0.8239085334691475,0 103.4742421926366,-0.8248136297721844,0 103.4748987594011,-0.8259718071327113,0 103.47832624049,-0.8244386879194047,0 103.4777172377998,-0.8235003091519808,0 103.4774874881358,-0.8235227062043797,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Perumahan Delima I / Selempang Merah</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan Delima I / Selempang Merah</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Perumahan Delima I / Selempang Merah</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan Delima I / Selempang Merah</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>56</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,444</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,838775</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_093556305.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4445245542289,-0.8399069066631654,0 103.44434418044,-0.8391793987526164,0 103.4441637393496,-0.8386241788492766,0 103.4439648263468,-0.8379300340584178,0 103.4440404688744,-0.83776269268074,0 103.4442211754077,-0.8376479069082438,0 103.4438889216746,-0.8362694754276876,0 103.443289847067,-0.8363745221417165,0 103.4434036352333,-0.8371690039786921,0 103.4435515620301,-0.8378836117589528,0 103.4431085327143,-0.8380303224784426,0 103.4432034855017,-0.8383653631524115,0 103.4434694315255,-0.8391024761281729,0 103.4438303291552,-0.8401746310121521,0 103.4445245542289,-0.8399069066631654,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan Permata Berlian</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,834155</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_164647805.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4595644228006,-0.8338612008799149,0 103.4630187315678,-0.8350494393718714,0 103.4631647597022,-0.8344560572352758,0 103.4597928205787,-0.8333635675973272,0 103.4595644228006,-0.8338612008799149,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan Pengabuan Permai / Bengkinang</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>175</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,829537</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_084407586.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4686381471864,-0.8308368050385997,0 103.4692686978173,-0.8308021545914624,0 103.4692272890564,-0.8303056094933909,0 103.4691383624554,-0.8297432414278758,0 103.4690908723158,-0.8296056313496102,0 103.4690257543037,-0.8289475558706456,0 103.4690081414911,-0.8283852156467678,0 103.4690082080792,-0.8282117300961246,0 103.4689726056922,-0.8280681411404496,0 103.4689251017036,-0.8279664242001784,0 103.4688851087208,-0.8278506385556089,0 103.4687669935468,-0.8279776117060708,0 103.4686084251279,-0.8281276097086518,0 103.468505570439,-0.8282090366271073,0 103.4683465516109,-0.8283878188798424,0 103.4680691438047,-0.8284566373606361,0 103.4681580696183,-0.829019005117416,0 103.4682232642672,-0.8294796652343016,0 103.4682825570501,-0.8298326420056397,0 103.4683833574906,-0.8304249258594179,0 103.4684628312283,-0.8308427192567944,0 103.4686381471864,-0.8308368050385997,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan Permata Biru</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>62</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,472</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,837919</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_151149950.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4698601494853,-0.8376245692697324,0 103.469907454912,-0.8382371728897421,0 103.4707537051536,-0.8382757918691378,0 103.4716094668398,-0.8383048431089137,0 103.474053182413,-0.8382962312944551,0 103.4740534306158,-0.8376549302690246,0 103.4725428615991,-0.8376439931936867,0 103.4724445464239,-0.8376432817343665,0 103.4724509870497,-0.8373332729188657,0 103.4721086831278,-0.8373203765518822,0 103.4721053578471,-0.8376408260953756,0 103.4698601494853,-0.8376245692697324,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan Permata Hijau 1, 2, 3 ,4</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>128</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,841311</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_143833873.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4670540824655,-0.8402843761128803,0 103.4671800055024,-0.8409586271102825,0 103.4673739382144,-0.84219174879939,0 103.4683645309261,-0.8418970156720755,0 103.4692978288995,-0.8410031347922459,0 103.4699349795747,-0.8408119536512757,0 103.4697330708301,-0.8394416049673816,0 103.4697454668456,-0.8391176991076903,0 103.4696408796912,-0.8390985143835596,0 103.4683000458634,-0.8394138501173877,0 103.4683569445154,-0.8398063097870908,0 103.4670540824655,-0.8402843761128803,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>Perumahan Permata Hijau 1, 2, 3 ,4</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>128</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,841311</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_143833873.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4700701166211,-0.842742118165603,0 103.4700439244659,-0.8423429071304366,0 103.4697953926569,-0.8423641989643428,0 103.4696755406988,-0.8425294713303882,0 103.4676366489922,-0.843113121929193,0 103.4677184231311,-0.8435102771555026,0 103.4700832982856,-0.8428604936941059,0 103.4700701166211,-0.842742118165603,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>RSS</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,476</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,82949</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_102056382.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4766087495713,-0.8291827592502765,0 103.4764625487213,-0.8289169713711103,0 103.4764384344195,-0.8288745199908705,0 103.4746787818064,-0.8297916690268168,0 103.4747387451351,-0.8298854331723871,0 103.4748601123862,-0.8301001060010005,0 103.4766087495713,-0.8291827592502765,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah_SR</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr>
+
+<td>RT</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_perum</td>
+
+<td>BTN RSS</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_SR</td>
+
+<td>59</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,476</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,829964</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_102015048.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.4748601123862,-0.8301001060010005,0 103.475273240656,-0.8308308428336635,0 103.4762480417279,-0.8303885320570077,0 103.4770089135436,-0.8299102435677853,0 103.4766087495713,-0.8291827592502765,0 103.4748601123862,-0.8301001060010005,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

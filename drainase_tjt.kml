@@ -1,0 +1,8434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="drainase_tjt" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>drainase_tjt</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff824a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>drainase_tjt</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Ki Hajar Dewantara / Jl. Pangeran Diponegoro / Jl. Tengku Cik Di Tiro /</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+304</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>304,409</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,6</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,794</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,2082</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,793</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,20832</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_124712619.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7926307409069,-1.208318265532183,0 103.7925166424355,-1.208241631955046,0 103.7923393165774,-1.207762906835551,0 103.7923298416573,-1.207679936833791,0 103.7923425397217,-1.207641651247231,0 103.7923774234499,-1.207619329596527,0 103.7932335245261,-1.207361244119564,0 103.7932905972516,-1.207345314690811,0 103.7933318112617,-1.207345333101887,0 103.7933761831251,-1.207374071608995,0 103.7936453709551,-1.2080315323293,0 103.7936706572861,-1.208203855762531,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Ki Hajar Dewantara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+357</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>356,894</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,6</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,792</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,20747</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,793</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,205</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_124721148.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7929619154891,-1.205002995159935,0 103.7930251900933,-1.205302974869305,0 103.7932275267396,-1.206582643982001,0 103.793284398319,-1.207023024053251,0 103.7932780131692,-1.207125132182341,0 103.7932589726849,-1.207166606122126,0 103.7922760408688,-1.207466118298185,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim (1)_20221124_121458790.jpg</a></td>
+
+<td><a target="_blank" href="">perkim (1)_20221124_121513348.jpg</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+284</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>283,814</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,795</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21447</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21631</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_121458790.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim (1)_20221124_121513348.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7967499022928,-1.216313565228469,0 103.7963902434777,-1.215920913478645,0 103.7960226556097,-1.215534640563721,0 103.7955172138134,-1.215022262825358,0 103.7949753315201,-1.21446998103965,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+157</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>157,325</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21532</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21634</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_123148574.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7967276973029,-1.216343071776077,0 103.7957500640254,-1.215315059346932,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+039</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>38,9675</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,795</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21479</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21454</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_123242045.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7955353006573,-1.214539077557908,0 103.7952856532473,-1.214786258489936,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+039</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>38,5899</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,795</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21481</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21456</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_123242045.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7955543112834,-1.214563337337748,0 103.7953051960105,-1.214806176784288,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+074</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>73,981</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21516</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21464</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_123101818.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7960650209868,-1.214635523253136,0 103.7956565475446,-1.215163509231168,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+075</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>74,4892</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,2152</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21466</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_123101818.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7960935433452,-1.214659468001744,0 103.7956885359263,-1.215195936379581,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+080</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>79,6818</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21543</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21486</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122851350.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7963526309661,-1.214855829323903,0 103.7959183221351,-1.215428876322692,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+079</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>79,4789</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21539</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21482</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122851350.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7963146032132,-1.214819913426523,0 103.7958816178171,-1.215391667538227,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+025</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>25,0426</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21566</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,2155</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122724781.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7963032044049,-1.215501979165943,0 103.7961408816327,-1.215658876949584,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+025</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>25,4996</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21569</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21552</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122724781.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7963301431099,-1.215524328532466,0 103.7961663472484,-1.215685637032261,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+050</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>50,1901</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21532</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,795</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21562</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122950387.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7954170435272,-1.215621243047219,0 103.7957500640254,-1.215315059346932,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+057</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>56,6237</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21553</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21588</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122804673.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7955786181415,-1.215874998109564,0 103.7959586897355,-1.215534436381054,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+056</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>55,8394</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21551</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21584</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122804673.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7955596093062,-1.215844675282273,0 103.7959354104911,-1.215509956687384,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+064</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>63,8998</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,2158</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21618</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122604166.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7957813829069,-1.216183017939357,0 103.7962137751677,-1.215802666950239,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+063</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>62,6018</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21577</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21615</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122604166.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.795763961455,-1.216147909973381,0 103.7961857468297,-1.215773193946163,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Bhayangkara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+196</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>196,121</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,5</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Dalam proses pembangunan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,793</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21606</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,794</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21484</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_120842000.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7944559879397,-1.214835034379192,0 103.7931809701124,-1.21605979497617,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Parit Culum I</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parit Culum I</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim (1)_20221124_102851330.jpg</a></td>
+
+<td><a target="_blank" href="">perkim (1)_20221124_102906010.jpg</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Parit Culum I</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Tulong Gading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+131</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>130,763</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,24501</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,24617</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_102851330.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim (1)_20221124_102906010.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8217076230077,-1.246169212358345,0 103.8219459176759,-1.24501098510953,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Parit Culum I</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parit Culum I</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim (1)_20221124_102851330.jpg</a></td>
+
+<td><a target="_blank" href="">perkim (1)_20221124_102906010.jpg</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Parit Culum I</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Tulong Gading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+129</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>129,308</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,24503</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,24618</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_102851330.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim (1)_20221124_102906010.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8217718207609,-1.246176421457033,0 103.8220029762632,-1.245030157056153,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Parit Culum I</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parit Culum I</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim (1)_20221124_101054818.jpg</a></td>
+
+<td><a target="_blank" href="">perkim (1)_20221124_101208013.jpg</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Parit Culum I</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>no name</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+663</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>863,991</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,6</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,817</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,24979</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,824</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,25283</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_101054818.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim (1)_20221124_101208013.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8239635722816,-1.252831585542733,0 103.8231172600314,-1.252409990036013,0 103.8220363788606,-1.251898941222832,0 103.8214467940903,-1.251649776512791,0 103.8208223233334,-1.251426123758948,0 103.8203246310783,-1.25128868521493,0 103.8198554682671,-1.251160832224977,0 103.8192880138818,-1.251052081851009,0 103.8188505383747,-1.250962535647157,0 103.8184067531751,-1.250802784785555,0 103.8181000645293,-1.250696146020251,0 103.8179079141799,-1.25057240740024,0 103.8168957156808,-1.249794142240236,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+031</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>31,3196</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21585</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21565</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122506889.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7965182549692,-1.215645972238154,0 103.7963191984414,-1.215846257258243,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+032</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>31,7587</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21587</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21566</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122506889.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7965372708878,-1.215660340127435,0 103.7963377034575,-1.215865703836187,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+039</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>39,3618</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21597</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21621</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122410833.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7961156873425,-1.216214423048425,0 103.7963712101286,-1.215968214386557,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+039</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>39,301</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21599</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21623</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122410833.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7961337507609,-1.216232619375023,0 103.796389252537,-1.21598718678584,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+032</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>31,8274</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21609</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21588</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122247022.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7967407095898,-1.215879651546297,0 103.7965430380333,-1.216087724272388,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+031</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>31,2932</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21607</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21587</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122247022.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7967235948942,-1.215868156380739,0 103.7965298105208,-1.216073283902,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+021</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>21,0895</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,2162</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21634</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122140036.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7964665865083,-1.216343814789027,0 103.7965948314547,-1.216203359576752,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Sabak Regency</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+022</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>21,6736</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,797</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21619</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,796</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21633</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_122140036.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7964494713902,-1.216333277513368,0 103.7965800335517,-1.21618779869715,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Parit Culum II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parit Culum II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim (1)_20221124_094428932.jpg</a></td>
+
+<td><a target="_blank" href="">perkim (1)_20221124_094238568.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">perkim (1)_20221124_094502049.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Parit Culum II</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Transos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+201</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>201,442</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Banyak vegetasi</td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,759</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,27037</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,27149</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_094428932.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim (1)_20221124_094238568.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td>perkim (1)_20221124_094502049.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7604266026533,-1.271493582368941,0 103.7602298031125,-1.271428799135782,0 103.7597973008967,-1.270902086183485,0 103.7595929216269,-1.270672240929182,0 103.7594265378622,-1.270547713913001,0 103.7590556904369,-1.270370438152739,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Parit Culum II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parit Culum II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim (1)_20221124_094217769.jpg</a></td>
+
+<td><a target="_blank" href="">perkim (1)_20221124_094944610.jpg</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Parit Culum II</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Transos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+188</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>187,584</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Banyak vegetasi</td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,759</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,27045</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,27153</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_094217769.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim (1)_20221124_094944610.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.7603010873398,-1.271530943258553,0 103.7602028201949,-1.27150217744597,0 103.7600982606721,-1.271371298926935,0 103.7598352565219,-1.271087178895052,0 103.75955642036,-1.27076156933918,0 103.7593662751137,-1.270601930277142,0 103.759042970308,-1.270451801132935,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Perumahan DPR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+210</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>209,994</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,823</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,22434</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,821</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,22457</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_110456162.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8211067009613,-1.224570335030017,0 103.8221696018319,-1.224496614448335,0 103.8226808518777,-1.224434615705873,0 103.8229733596984,-1.22434140870567,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Perumahan DPR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+212</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>211,692</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,823</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,22439</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,821</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,22461</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_110356798.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.82110906111,-1.224611021136641,0 103.8223027440783,-1.224527785709168,0 103.8226879659653,-1.22447769733541,0 103.822992362387,-1.22438688808771,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Perumahan Edelweiss</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+131</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>131,433</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,821</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21941</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,21934</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_111459259.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8220182032914,-1.219342184614292,0 103.8208387974956,-1.219407080860177,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Talang Babat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Talang Babat</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Perumahan Edelweiss</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+131</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>131,277</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,821</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,21947</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,2194</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim (1)_20221124_111459259.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8220165909575,-1.219404408671321,0 103.8208387690258,-1.219472496786148,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Ma Sabak Ilir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim_20221124_113327336.jpg</a></td>
+
+<td><a target="_blank" href="">perkim_20221124_113435008.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">perkim_20221124_113435008.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. H. Asri</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+065</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>64,8393</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,35</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,851</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,12701</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,12698</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim_20221124_113327336.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim_20221124_113435008.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td>perkim_20221124_113435008.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8501078782576,-1.12698379568263,0 103.8501991329824,-1.127112749448427,0 103.8502764567547,-1.1271931950961,0 103.8502967439199,-1.127198308407714,0 103.8503094258855,-1.127198313447225,0 103.8505225418677,-1.127014594642468,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Ma Sabak Ilir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim_20221124_111324229.jpg</a></td>
+
+<td><a target="_blank" href="">perkim_20221124_111341715.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">perkim_20221124_111341715.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Paduka Berhala / Jl. Airud - Jl. Pelabuhan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+180</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>179,941</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,5</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Air tidak mengalir</td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,12729</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,12835</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim_20221124_111324229.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim_20221124_111341715.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td>perkim_20221124_111341715.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.850466694658,-1.128353638695249,0 103.8503424947369,-1.128160849827881,0 103.8500573198358,-1.12777270668748,0 103.8498710072798,-1.127514796707006,0 103.8498570697193,-1.127485433268961,0 103.8498570787366,-1.127462457842525,0 103.8502223903745,-1.127225189966858,0 103.8502490205247,-1.127225200549918,0 103.8502718371119,-1.127249461363122,0 103.8502933806757,-1.127286485699869,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Ma Sabak Ilir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim_20221124_112206005.jpg</a></td>
+
+<td><a target="_blank" href="">perkim_20221124_112044970.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">perkim_20221124_112044970.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Pelabuhan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+091</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>91,3231</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,3</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak sedang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Dinding drainase ada yang sudah rusak</td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,851</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,12843</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,851</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,12912</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim_20221124_112206005.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim_20221124_112044970.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td>perkim_20221124_112044970.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8509714262759,-1.129124243851598,0 103.8508396238277,-1.128914859849509,0 103.8505291252779,-1.128428421430496,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Ma Sabak Ilir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim_20221124_135328773.jpg</a></td>
+
+<td><a target="_blank" href="">perkim_20221124_135615708.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">perkim_20221124_135615708.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Parit Ibas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d + 0+281</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>280,76</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,5</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Vegetasi, sampah, air tidak mengalir</td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,852</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,12313</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,855</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,12236</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim_20221124_135328773.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim_20221124_135615708.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td>perkim_20221124_135615708.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8548175024668,-1.122361561311748,0 103.8545697913119,-1.122443234633867,0 103.8540188803636,-1.122626502710143,0 103.8535214905246,-1.122753947800318,0 103.8530934491401,-1.122885409192572,0 103.8527089993108,-1.123016887704266,0 103.8524137218932,-1.123128457958214,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Ma Sabak Ilir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">perkim_20221124_135454785.jpg</a></td>
+
+<td><a target="_blank" href="">perkim_20221124_135510631.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">perkim_20221124_135510631.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Ma Sabak Ilir</td>
+
+</tr>
+
+<tr>
+
+<td>Lokasi</td>
+
+<td>Jl. Parit Ibas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STA</td>
+
+<td>0+000 s/d 0+281</td>
+
+</tr>
+
+<tr>
+
+<td>Konstruksi</td>
+
+<td>Beton</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Panjang_m</td>
+
+<td>280,859</td>
+
+</tr>
+
+<tr>
+
+<td>Lebar_m</td>
+
+<td>0,6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tinggi_m</td>
+
+<td>0,5</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Drainase buntu dan terpendam tanah</td>
+
+</tr>
+
+<tr>
+
+<td>X_Awal</td>
+
+<td>103,852</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Awal</td>
+
+<td>-1,12318</td>
+
+</tr>
+
+<tr>
+
+<td>X_Akhir</td>
+
+<td>103,855</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y_Akhir</td>
+
+<td>-1,12243</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_1</td>
+
+<td>perkim_20221124_135454785.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto_2</td>
+
+<td>perkim_20221124_135510631.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Foto_3</td>
+
+<td>perkim_20221124_135510631.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Tanjabtim</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						103.8548491784269,-1.122431378523282,0 103.8544964417224,-1.122536942913087,0 103.8539495000873,-1.122704256330287,0 103.8535492056525,-1.122817779865233,0 103.8530934195989,-1.122961196529501,0 103.8527525721814,-1.123064770749355,0 103.8524394594366,-1.123184311140898,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

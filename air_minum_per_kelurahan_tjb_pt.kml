@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="air_minum_per_kelurahan_tjb_pt" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>air_minum_per_kelurahan_tjb_pt</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_b12fc38_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>air_minum_per_kelurahan_tjb_pt</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Sungai Nibung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>1847</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>320</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,449</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,836021</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221117_091007743.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.448731965841,-0.8360206589467893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>2456</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>426</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,456</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,820282</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221116_115825115.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4558480445826,-0.8202817535484116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>1529</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>813</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,462</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,818146</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221116_105649493.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4616807382835,-0.8181463576036043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>1269</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>520</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,824942</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221116_155250300.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4601250804168,-0.8249415883046943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>1718</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>598</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,466</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,829411</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221117_111150745.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4657429046251,-0.8294105285036959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>2593</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>550</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,473</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,824474</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221117_103533981.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4730093373143,-0.8244743857890501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>2956</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>1513</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,466</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,820912</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221117_090950650.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4656168448452,-0.8209118392920846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Bram Itam Kiri</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bram Itam Kiri</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Id</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kelurahan</td>
+
+<td>Bram Itam Kiri</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_SPAM</td>
+
+<td>Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah_Rum</td>
+
+<td>817</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_SR</td>
+
+<td>385</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_X</td>
+
+<td>103,398</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_Y</td>
+
+<td>-0,87728</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Foto</td>
+
+<td>perkim_20221118_095810092.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.3982382427038,-0.8772803751578755,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

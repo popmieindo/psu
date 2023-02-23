@@ -1,0 +1,6909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Persampahan_TJB" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Persampahan_TJB</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_b1315d0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Persampahan_TJB</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,814892</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_121533433.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4596145154823,-0.8148919976531875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820568</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_094331054.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4610944241628,-0.8205676444585533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,462</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822351</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_094724918.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4621170164342,-0.8223507949124061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Kurang berfungsi/perlu diperbesar</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,463</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821449</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_100214715.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4625558930965,-0.8214489944108597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak berfungsi</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,816952</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_125219528.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4595270083542,-0.816951725188564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,817432</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_112010239.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4599129106473,-0.8174317916048665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,817877</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_111732466.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.460010140862,-0.8178766577120756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821461</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_093815711.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4608778360236,-0.8214610635651326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Tungkal Empat Kota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Empat Kota</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,463</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822801</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_100643240.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4625994786605,-0.8228006885593041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, terjadi penumpukan sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,464</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,81979</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_144529542.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4643274919266,-0.8197902183137067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, terjadi penumpukan sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,466</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,82093</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_143347088.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4658275173226,-0.8209297048569862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,468</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820506</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_122313954.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4682103244103,-0.8205056242514323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821436</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_123412754.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4686746819442,-0.8214362553214251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, terjadi penumpukan sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,465</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,813895</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_140443790.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4647794443675,-0.813894986754805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Tungkal III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal III</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Bak sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, terjadi penumpukan sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,463</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,813409</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_135146734.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4625428172607,-0.8134088857871348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Tungkal II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal II</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,472</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821852</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_153744108.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4724388269047,-0.8218516197730772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,453</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821232</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122848357.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4530461211491,-0.8212324286636865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,453</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821023</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122932586.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4533921259454,-0.821022902344182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820877</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_123040484.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4535470229698,-0.8208774079649698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,82091</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_123028025.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.453553728858,-0.8209102610206502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820804</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_123148522.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4536579999275,-0.8208043251718163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak sedang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820796</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_123121683.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4537113084413,-0.8207956085347892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821944</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122249658.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4536358717984,-0.8219438109197874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821944</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122313263.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4536838160029,-0.8219438115215518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822062</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122156302.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4537646173819,-0.8220618163087284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822158</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_122110213.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4539054336498,-0.8221583659527424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822021</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_121318616.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4550349790475,-0.8220205815054602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822649</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_121132378.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4553330394281,-0.8226491596938952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak berfungsi</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,457</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,8191</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_151506733.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4569494051109,-0.8191002904723714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,817368</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_141135956.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4545055778522,-0.8173680960961969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,453</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,819535</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_131806439.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4526897220719,-0.8195347645620937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,453</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,818189</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_140706434.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4531762076023,-0.8181891031781705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,817766</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_140936864.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4536871682148,-0.8177663633905863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,456</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,818275</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_142841552.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4555308523407,-0.8182752605738552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,819732</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_130834339.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4551483024086,-0.8197318867692832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, terjadi penumpukan sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,456</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,816309</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_144030922.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4561041739151,-0.8163087305610262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,458</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,821493</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_112629740.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4584708884947,-0.8214932468035931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong dan keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,459</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,817749</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_100149272.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4588584673048,-0.8177492656186715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,459</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,818126</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_100034465.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4589322283264,-0.8181257425769513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822436</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_110716446.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4606642645037,-0.8224362812826201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah 3R</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak berfungsi</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,822673</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_110849832.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4604848918249,-0.8226729620684544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak berfungsi</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,457</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,8191</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_151506733.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4569494051109,-0.8191002904723714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820529</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_092559904.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.460544906297,-0.8205290913267443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,820899</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_092033550.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4606287260293,-0.8208985281652766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Tungkal Harapan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Tungkal Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,459</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,824011</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_110005288.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4591816734162,-0.8240105755523094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Kurang maksimal</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,459</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,824085</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_105905691.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4593861919045,-0.8240846640795387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,825761</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_160235560.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4596493842165,-0.825760535645463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Sriwijaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sriwijaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,826062</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221116_160325254.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4607403724487,-0.8260622523325386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,824468</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_115819899.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4613358225569,-0.8244678451984989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,824848</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_115736013.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4614219887693,-0.8248483440477073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,463</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,824684</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_113031162.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.462739624175,-0.8246844111255659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,465</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,826321</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_110920213.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.464666120402,-0.8263213940999217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,465</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,825018</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_111641629.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4652210029233,-0.825017641021068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,468</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,832081</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_155243881.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4681010241816,-0.8320811702520604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,468</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,832532</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_154916956.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.468214012244,-0.8325317333784567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS fiber</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,468</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,833234</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_154610750.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4684245657549,-0.8332343985040188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,835375</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_152436027.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4692201766226,-0.8353752445029816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,84086</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_143858649.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4687072035639,-0.8408601105898392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak berat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,841583</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_143622400.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4687276553763,-0.841582552286836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Patunas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Patunas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>TPS beton</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Rusak ringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,841502</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_150302126.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.470025844863,-0.8415020947084021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Sungai Nibung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Tidak maksimal, sampah berserakan</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,828692</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_090556172.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4549984334684,-0.8286915489529918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Sungai Nibung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"></table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Kelurahan</td>
+
+<td>Sungai Nibung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Sara</td>
+
+<td>Tong dan keranjang sampah</td>
+
+</tr>
+
+<tr>
+
+<td>Kondisi</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keberfungs</td>
+
+<td>Baik</td>
+
+</tr>
+
+<tr>
+
+<td>Koord_X</td>
+
+<td>103,45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Koord_Y</td>
+
+<td>-0,835204</td>
+
+</tr>
+
+<tr>
+
+<td>Foto</td>
+
+<td>perkim_20221117_091507982.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>103.4497074412328,-0.8352042721681351,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
